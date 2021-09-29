@@ -1,0 +1,19 @@
+h4 {
+    color: dodgerblue;
+}
+
+li{
+    background-color: antiquewhite;
+}
+
+#hej {
+    background-color: aquamarine;
+}
+
+.normal {
+    font-weight: bold;
+}
+
+.normal:hover {
+    color: rebeccapurple;
+}
